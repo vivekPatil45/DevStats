@@ -1,0 +1,15 @@
+.custom-card-image .card.image-full:before{
+  /* image-full */
+    border-radius: 0.5rem;
+    opacity: 0.45;
+}
+
+/* Pagination Css Start */
+.pagination .btn {
+  padding: 0px;
+  margin: 5px 5px;
+}
+.page-link {
+  padding: 16px 22px;
+  border-radius: 8px;
+}
