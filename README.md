@@ -1,6 +1,6 @@
 # DevStats GitHub User Search
 
-This is a ReactJS website that utilizes the GitHub API to enable users to find any GitHub user and view their repositories.
+This is a DevStats website that utilizes the GitHub API to enable users to find any GitHub user and view their repositories.
 
 
 ## Features
